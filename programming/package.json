@@ -1,0 +1,13 @@
+{
+  "name": "javascript-programming",
+  "version": "1.0.0",
+  "description": "To solve the javascript programming tests",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Rui Nan",
+  "license": "MIT"
+}
