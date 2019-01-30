@@ -1,6 +1,6 @@
 # The CSS Program
 
-## How to run it
+## Process for running app
 
 Use the browser to open the `index.html` file under this folder.
 

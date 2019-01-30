@@ -4,7 +4,7 @@
 
 The only dependency is the Heap.
 
-## How to run it
+## Process for running app
 
 Under the folder in the terminal, run `npm start`. The result will show in the terminal console.
 
