@@ -1,4 +1,4 @@
-# CSS Program
+# The CSS Program
 
 ## How to run it
 
